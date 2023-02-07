@@ -15,8 +15,8 @@ export const data = [
     "url": "projectModuloxNew/index.html"
   },
   {
-    "project_name": "presentationAJAX",
+    "project_name": "presentationAjax",
     "name": "Ajax presentation",
-    "url": "presentationAJAX/index.html"
+    "url": "presentationAjax/index.html"
   }
 ];
