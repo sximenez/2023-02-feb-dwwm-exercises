@@ -1,7 +1,5 @@
 # AJAX | Récupération de données (GET)
 
-✅ https://sximenez.github.io/AJAX/
-
 ## Comment fonctionne un navigateur ?
 
 Avant de comprendre ce qu'est AJAX, comprenons comment fonctionne un navigateur web.

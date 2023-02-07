@@ -1,5 +1,3 @@
-Rendu : https://sximenez.github.io/DWWM-FRONT-TP_MODULOX_NEW/
-
 Les objectifs : 
 1. A partir du TP Modulox, faire l'exercice en mode projet client (recherche, modèle, wireframe, maquette, prototype)
 

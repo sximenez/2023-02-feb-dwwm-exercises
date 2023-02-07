@@ -1,5 +1,3 @@
-Rendu : https://sximenez.github.io/DWWM-FRONT-TP_MAQUETTAGE/
-
 Les objectifs : 
 1. Comprendre qu'est qu'une LP
 2. Rechercher des modèles de LP et analyser leur structure
